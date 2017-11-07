@@ -3,7 +3,7 @@
 #
 # The "Fuck Jack" bash script
 #
-# For AOSP versions 7.0 to 7.1.1
+# For AOSP versions oreo
 #
 # Written by Michael S Corigliano (Mike Criggs) (michael.s.corigliano@gmail.com)
 # Taken & adapted from my EZ AOSP tool, available here: https://github.com/mikecriggs/ez-aosp
