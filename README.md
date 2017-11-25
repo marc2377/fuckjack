@@ -1,6 +1,6 @@
 # FUCK JACK (V2)
 
-### Tired of your AOSP (Android Open Source Project) 7.X builds failing because JAVA and JAVAC are running out of memory? Well, this is because of the Jack server. If you have less than 16GB of RAM, this is a common issue. Use one of these scripts before compilation and it may save you a few headaches. ###
+### Tired of your AOSP (Android Open Source Project) oreo builds failing because JAVA and JAVAC are running out of memory? Well, this is because of the Jack server. If you have less than 16GB of RAM, this is a common issue. Use one of these scripts before compilation and it may save you a few headaches. ###
 
 ### How to get it ###
 ```bash
