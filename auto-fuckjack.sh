@@ -3,7 +3,7 @@
 
 #
 # FUCK JACK
-# Use with Android 8.X
+# Use with Android 7.X
 #
 
 # Kill the Jack server
