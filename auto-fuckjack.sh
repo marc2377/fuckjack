@@ -22,7 +22,7 @@
 # IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT!
 
   export SERVER_NB_COMPILE=2
-  export ANDROID_JACK_VM_ARGS=$JACK_SERVER_VM_ARGUMENT
+  export JACK_SERVER_VM_ARGUMENT=$ANDROID_JACK_VM_ARGS
 
 # You may need to uncomment the following command if Java tells you to use it.
 #  ulimit -n unlimited
